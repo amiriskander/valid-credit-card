@@ -1,0 +1,22 @@
+{
+    "name": "amiriskander/valid-credit-card",
+    "description": "Validate credit and debit cards given their card numbers and cvc number",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Amir Iskander",
+            "email": "amir.amgad.iskander@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "AmirIskander\\CreditCard\\": "src/",
+            "files": [ "./resources/constants.php" ]
+        }
+    }
+}
