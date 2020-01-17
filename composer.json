@@ -1,6 +1,7 @@
 {
     "name": "amiriskander/valid-credit-card",
     "description": "Validate credit and debit cards given their card numbers and cvc number",
+    "keywords": ["creditcard", "debit", "credit", "card", "validator", "cvc", "laravel", "symfony"],
     "type": "library",
     "license": "MIT",
     "authors": [
