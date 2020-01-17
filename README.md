@@ -1,6 +1,6 @@
 # Valid Credit Card
 
-[![Build Status](https://travis-ci.org/inacho/php-credit-card-validator.svg?branch=master)](https://travis-ci.org/inacho/php-credit-card-validator) [![Coverage Status](https://coveralls.io/repos/inacho/php-credit-card-validator/badge.svg?branch=master&service=github)](https://coveralls.io/github/inacho/php-credit-card-validator?branch=master) [![Latest Stable Version](https://poser.pugx.org/inacho/php-credit-card-validator/version)](https://packagist.org/packages/inacho/php-credit-card-validator) [![Total Downloads](https://poser.pugx.org/inacho/php-credit-card-validator/downloads)](https://packagist.org/packages/inacho/php-credit-card-validator)
+[![Build Status](https://travis-ci.org/amiriskander/valid-credit-card.svg?branch=master)](https://travis-ci.org/amiriskander/valid-credit-card) [![Latest Stable Version](https://poser.pugx.org/amiriskander/valid-credit-card/version)](https://packagist.org/packages/amiriskander/valid-credit-card) [![Total Downloads](https://poser.pugx.org/amiriskander/valid-credit-card/downloads)](https://packagist.org/packages/amiriskander/valid-credit-card) [![License](https://poser.pugx.org/amiriskander/valid-credit-card/license)](https://packagist.org/packages/amiriskander/valid-credit-card)
 
 Simple and lightweight package that validates credit cards and debit cards for popular providers.
 
@@ -44,7 +44,7 @@ bool(true)
 Execute the below command to run the unit tests:
 
 ```shell script
-vendor/bin/phpunit
+vendor/bin/phpunit tests
 ```
 
 ## Resources
